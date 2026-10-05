@@ -1,0 +1,21 @@
+README.md
+  s_4d505973cdba96::t_f8929ff0f806fe 2
+sentei.rb
+  s_4d505973cdba96::t_568cd41c06d350 7,13,21,32,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "9560000ed0d93e39547e742c27e209b590971752",
+  "prompts": {},
+  "sessions": {
+    "s_4d505973cdba96": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10bd729f-6128-4549-9440-3637cae67e97",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Avi <avishek.biswas.1997@gmail.com>"
+    }
+  }
+}
