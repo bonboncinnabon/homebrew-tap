@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew tap for abiswas97 projects
+Homebrew tap for bonboncinnabon projects
